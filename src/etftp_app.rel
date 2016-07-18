@@ -1,0 +1,8 @@
+{release,
+ {"etftp_app_rel", "1"},
+ {erts, "7.3"},
+ [{kernel, "4.2"},
+  {stdlib, "2.8"},
+  {sasl, "2.7"},
+  {etftp_app, "1"}]
+}.
